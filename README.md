@@ -1,6 +1,6 @@
 # GenAI-Projects-
 
-Multi-Language Invoice Extractor
+## Multi-Language Invoice Extractor
 
 Description
 This project aims to extract information from invoices written in multiple languages using Google Gemini Pro, a generative AI API. The application is powered by Streamlit and seamlessly integrates the Google Generative AI API for content generation.
